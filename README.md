@@ -1,6 +1,6 @@
 # Spotify Recommendation System
 
-This algorithm implements a **content-based recommendation engine** by using the [Spotify dataset from Kaggle](https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks) and the user's data from retrieved from their Spotify account by leveraging [spotipy](https://spotipy.readthedocs.io/en/2.18.0/) -- a python library for [Spotify Web API](https://developer.spotify.com/documentation/web-api/). 
+This algorithm implements a **content-based recommendation engine** by using the [Spotify dataset from Kaggle](https://www.kaggle.com/yamaerenay/spotify-dataset-19212020-160k-tracks) and the user's data retrieved from their Spotify account by leveraging [spotipy](https://spotipy.readthedocs.io/en/2.18.0/) -- a python library for [Spotify Web API](https://developer.spotify.com/documentation/web-api/). 
 
 The algorithm uses the following steps: 
 1. Spotify data from Kaggle is cleaned and pre-processed to create a 30-dimensional vector space containing ~500,000 vectors (each vector represents a track/song)
