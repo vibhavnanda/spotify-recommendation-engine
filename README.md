@@ -16,4 +16,4 @@ It doesn't take into account meta-data like:
 3. Artist
 4. Popularity etc. 
 
-This was primarily an experiement for me to see if I could expand my musical taste/preferences by solely focusing on "how" a song sounds and feels instead of "what" genre or artist it belongs to.
+This was primarily an experiement for me to see if I could expand my musical taste/preferences by solely focusing on "how" a song sounds and feels instead of "what" genre or artist it belongs to. I liked the recommendations my system gave me. 
